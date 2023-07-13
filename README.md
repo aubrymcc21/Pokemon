@@ -10,4 +10,4 @@ This project was very challenging but rewarding. While not much to look at, it w
 
 To Run: java .\Driver.java
 
-This program requires a Java IDE of some kind to run. It was originally tested both with BlueJ and Visual Studio Code.
+This program requires a Java IDE of some kind to run. It has been tested both with BlueJ and Visual Studio Code.
