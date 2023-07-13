@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=signs
+comment1.params=
+comment1.target=signs()
+comment2.params=g
+comment2.target=void\ housesign(java.awt.Graphics2D)
+comment3.params=g
+comment3.target=void\ grasssign(java.awt.Graphics2D)
+comment4.params=g
+comment4.target=void\ housemessage(java.awt.Graphics2D)
+comment5.params=g
+comment5.target=void\ grassmessage(java.awt.Graphics2D)
+comment6.params=
+comment6.target=java.awt.Rectangle\ gethousesign()
+comment7.params=
+comment7.target=java.awt.Rectangle\ getgrasssign()
+numComments=8

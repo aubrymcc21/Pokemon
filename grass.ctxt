@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=grass
+comment1.params=
+comment1.target=grass()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=xx\ yy
+comment3.target=void\ setLoc(int,\ int)
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment5.params=
+comment5.target=int\ getx()
+comment6.params=
+comment6.target=int\ gety()
+comment7.params=xx
+comment7.target=void\ setx(int)
+comment8.params=yy
+comment8.target=void\ sety(int)
+comment9.params=
+comment9.target=java.awt.Rectangle\ getRect()
+numComments=10

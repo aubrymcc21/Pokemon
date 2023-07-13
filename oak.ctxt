@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=oak
+comment1.params=
+comment1.target=oak()
+comment2.params=g
+comment2.target=void\ drawpants(java.awt.Graphics2D)
+comment3.params=g
+comment3.target=void\ drawshirt(java.awt.Graphics2D)
+comment4.params=g
+comment4.target=void\ drawjacket(java.awt.Graphics2D)
+comment5.params=g
+comment5.target=void\ drawtherest(java.awt.Graphics2D)
+numComments=6

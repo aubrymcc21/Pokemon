@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TREES
+comment1.params=
+comment1.target=TREES()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TREES\r\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=
+comment3.target=int\ getx()
+comment4.params=
+comment4.target=int\ gety()
+comment5.params=
+comment5.target=java.awt.Rectangle\ getRect()
+comment6.params=xx\ yy
+comment6.target=void\ setLoc(int,\ int)
+numComments=7
