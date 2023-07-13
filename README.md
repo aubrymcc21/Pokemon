@@ -8,6 +8,6 @@ This is a very simple mimic game of Pokemon written in Java. This program will s
 
 This project was very challenging but rewarding. While not much to look at, it was the first somewhat large project I had done before, with multiple classes and really diving into the implication of Object Oriented Programming.
 
-To Run: java .\Driver.java
+To run: java .\Driver.java
 
 This program requires a Java IDE of some kind to run. It has been tested both with BlueJ and Visual Studio Code.
